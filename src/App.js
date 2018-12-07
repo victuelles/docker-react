@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            DOCKER is Perfect
+            DOCKER was changed to Feature Branch
           </a>
         </header>
       </div>
